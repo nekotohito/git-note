@@ -16,6 +16,8 @@ git add --all
 
 git commit -m "こめんと"
 
+--> 3と4合わせてgithub desktopの履歴を残す作業
+
 5. 履歴をみる
 
 git log
