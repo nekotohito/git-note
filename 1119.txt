@@ -25,3 +25,7 @@ git log
 git diff <コミットのhash> <もうひとつのコミットのhash>
 
 変更は GitHub Desktop アプリを使うとみやすい
+
+aaa
+
+nnn
