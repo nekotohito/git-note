@@ -39,6 +39,8 @@ github desktop: 要するにgui。gitの内容を見やすくしてくれてい�
 github: webサイトの名前。
 gitlab: webサイトの名前。
 
+# ここでいいいはいらない
 いいい
 
+# これもいらない
 あああ
