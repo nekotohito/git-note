@@ -19,3 +19,9 @@ git commit -m "こめんと"
 5. 履歴をみる
 
 git log
+
+6. 履歴間の変更をみる
+
+git diff <コミットのhash> <もうひとつのコミットのhash>
+
+変更は GitHub Desktop アプリを使うとみやすい
