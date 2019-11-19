@@ -27,3 +27,14 @@ git log
 git diff <コミットのhash> <もうひとつのコミットのhash>
 
 変更は GitHub Desktop アプリを使うとみやすい
+
+7. つくったリポジトリ(.git があるフォルダ)を github へアップロードする
+
+git remote add origin https://github.com/nekotohito/git-note.git
+git push -u origin master
+
+
+git: 履歴をのこす・戻す・変更見る…とかできるソフト
+github desktop: 要するにgui。gitの内容を見やすくしてくれている。
+github: webサイトの名前。
+gitlab: webサイトの名前。
