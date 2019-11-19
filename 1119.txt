@@ -39,8 +39,12 @@ github desktop: 要するにgui。gitの内容を見やすくしてくれてい�
 github: webサイトの名前。
 gitlab: webサイトの名前。
 
-# ここでいいいはいらない
-いいい
+8. 自分のぱそこのリポジトリ(プロジェクトと呼んでもいい)を github にアップするまで
 
-# これもいらない
-あああ
+- 自分のぱそこのフォルダの中で git init する
+- github desktop で開く
+- コミットを作る
+- github で new repository つくる
+- git remote add ... みたいなコマンドが出てるからコピーする
+- 自分のリポジトリのコンソールにそれを打つ
+- github desktop 真ん中上あたりのボタンで push する
