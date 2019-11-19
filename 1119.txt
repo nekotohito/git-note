@@ -4,5 +4,18 @@ git note
 
 git init
 
+2. このフォルダの現在の状況をみる
 
+git status
 
+3. ファイルをバージョン管理に入れる
+
+git add --all
+
+4. これまでの変更を履歴にのこす
+
+git commit -m "こめんと"
+
+5. 履歴をみる
+
+git log
